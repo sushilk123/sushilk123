@@ -8,7 +8,7 @@ At Credit Suisse, I am a part of the Market Data Analytics team in the Global Ma
 1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
 2. Time Series Forecasting to capture Trade Anomalies – Using Time series analysis and modeling using TS models such as ARMA, ARIMA, Holt-Winters, etc.
 3. Machine Learning Model to Predict Expenses - Expense prediction using regression techniques and time-series analysis.
-4. Building Automation Modules – For Data On-boarding, Data Cleansing and Sanity checks.
+4. Building Automation Modules – For data onboarding, data cleansing and sanity checks.
 5. Liquid Symbol Monitoring – Monitoring system which analyses and monitors top liquid symbols/ticks across Asia Pacific for all major exchanges.
 
 # Academic Projects
@@ -16,7 +16,7 @@ At Credit Suisse, I am a part of the Market Data Analytics team in the Global Ma
 2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
 
 # Research 
-I authored a research paper titled,[A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
+I authored a research paper titled, [A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
 
 The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
 1. Published by Springer in the book series of Advances in Intelligent systems and Computing.
