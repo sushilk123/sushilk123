@@ -72,13 +72,18 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
 ![](https://img.shields.io/badge/Collab-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=21b52b)
 
 # Certifications
-1. Machine Learning : Regression - Coursera
-2. Machine Learning : Classification - Coursera
-3. Python for Data science & Machine Learning Bootcamp - Udemy
-4. Python for Time Series Data Analysis - Udemy
-5. The Building Blocks of Hadoop – HDFS, MapReduce and YARN – Pluralsight
-6. Big Data Fundamentals via PySpark – Datacamp
-
+1. Discrete time Signal Processing - NPTEL IIT kharagpur
+2. Principles of Communication- NPTEL, IIT Kanpur 
+3. Introduction to Bash shell on MAC OS and Linux – Pluralsight
+4. Getting started with hive for relational Database developers – Pluralsight
+5. SQL on Hadoop – Analyzing Big data with Hive – Pluralsight
+6. Introduction to Bash shell on MAC OS and Linux – Pluralsight
+7. Python for Data science & Machine Learning Bootcamp - Udemy
+8. Python for Time Series Data Analysis - Udemy
+9. The Building Blocks of Hadoop – HDFS, MapReduce and YARN – Pluralsight
+10. Big Data Fundamentals via PySpark – Datacamp
+11. Machine Learning : Regression - Coursera
+12. Machine Learning : Classification- Coursera
 
 ## Say Hi
 *I'd love to hear from you at [sushilkhairnar84@gmail.com](mailto:sushilkhairnar84@gmail.com) or a DM on [LinkedIn](https://www.linkedin.com/in/sushil-khairnar-a9322a147)*
