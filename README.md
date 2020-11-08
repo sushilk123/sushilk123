@@ -1,5 +1,5 @@
 # Sushil Khairnar
-<!-- <img src="images/sushil_casual.jpg" width="30%" /> -->
+<!-- <img src="images/sushil_1.jpg" width="30%" /> -->
 Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse, a major global financial firm. 
 
 At Credit Suisse, I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
@@ -16,10 +16,10 @@ At Credit Suisse, I am a part of the Market Data Analytics team in the Global Ma
 2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
 
 # Research 
-I authored a research paper titled, "A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack".
+I authored a research paper titled,[A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
 
-The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES.
-1. Published by Springer in the book series of Advances in Intelligent systems and Computing.[Abstract](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
+The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
+1. Published by Springer in the book series of Advances in Intelligent systems and Computing.
 2. Paper presented at Science and Information (Computing Conference) 2018 London.
 
 # Hobby Projects
@@ -41,7 +41,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 ![](https://img.shields.io/badge/Android-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
-![](https://img.shields.io/badge/Flask-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Cryptography-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 
