@@ -12,7 +12,7 @@ At Credit Suisse, I am a part of the Market Data Analytics team in the Global Ma
 5. Liquid Symbol Monitoring – Monitoring system which analyses and monitors top liquid symbols/ticks across Asia Pacific for all major exchanges.
 
 # Academic Projects
-1. DONOR-X - An android and website based platform for connecting organ and blood donors with recipients
+1. [DONOR-X](https://www.youtube.com/watch?v=1AKfClmABxE) - An android and website based platform for connecting organ and blood donors with recipients
 2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
 
 # Research 
