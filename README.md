@@ -4,9 +4,9 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 
 # Key Projects at Credit Suisse
 1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
-2. Time Series Forecasting to capture Trade Anomalies – Using Time series analysis and modeling using TS models such as ARMA, ARIMA, Holt-Winters, etc.
+2. Time Series Forecasting to capture Trade Anomalies – Time series analysis and modeling using TS models such as ARMA, ARIMA, Holt-Winters, etc.
 3. Machine Learning Model to Predict Expenses - Expense prediction using regression techniques and time-series analysis.
-4. Building Automation Modules – For data onboarding, data cleansing and sanity checks.
+4. Python Automation Modules – For data onboarding, data cleansing and sanity checks.
 5. Liquid Symbol Monitoring – Monitoring system which analyses and monitors top liquid symbols/ticks across Asia Pacific for all major exchanges.
 
 # Academic Projects
