@@ -25,7 +25,8 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 1. House Price Prediction
 2. Sentiment Analysis
 3. Smart Grid  
-4. Stocks price prediction
+4. Whatsapp Chat Analytics
+5. Stocks price prediction
 
 
 # Technical Skills
