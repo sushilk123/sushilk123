@@ -22,10 +22,10 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 2. Paper presented at Science and Information (Computing Conference) 2018 London.
 
 # Hobby Projects
-1. House Price Prediction
-2. Sentiment Analysis
-3. Smart Grid  
-4. Whatsapp Chat Analytics
+1. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
+2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
+3. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
+4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
 5. Stocks price prediction
 
 
