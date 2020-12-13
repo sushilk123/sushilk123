@@ -84,6 +84,7 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
 10. Big Data Fundamentals via PySpark – Datacamp
 11. Machine Learning : Regression - Coursera
 12. Machine Learning : Classification- Coursera
+13. Neural Networks and Deep Learning - Coursera
 
 ## Say Hi
 *I'd love to hear from you at [sushilkhairnar84@gmail.com](mailto:sushilkhairnar84@gmail.com) or a DM on [LinkedIn](https://www.linkedin.com/in/sushil-khairnar-a9322a147)*
