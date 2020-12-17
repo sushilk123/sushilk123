@@ -13,7 +13,7 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 # Academic Projects
 1. [DONOR-X](https://www.youtube.com/watch?v=1AKfClmABxE) - An android and website based platform for connecting organ and blood donors with recipients
 2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
-3. LiCi-II => A light weight cipher 
+3. LiCi-II - A light weight cipher 
 
 # Research 
 I authored a research paper titled, [A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
