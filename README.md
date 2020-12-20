@@ -72,7 +72,7 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
 ![](https://img.shields.io/badge/Collab-GitHub-informational?style=flat&logo=github&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Collab-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=21b52b)
 
-# Certifications
+# Certifications and Courses
 
  1. Introduction to Bash shell on MAC OS and Linux – Pluralsight
  2. Getting started with hive for relational Database developers – Pluralsight
