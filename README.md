@@ -86,8 +86,9 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
  10. Machine Learning : Regression – Coursera
  11. Machine Learning : Classification- Coursera
  12. Neural Networks and Deep Learning – Coursera
- 13. Discrete time Signal Processing - NPTEL IIT kharagpur
- 14. Principles of Communication- NPTEL, IIT Kanpur
+ 13. Programming, Data Structures and Algorithms - NPTEL IIT Madras 
+ 14. Discrete time Signal Processing - NPTEL IIT kharagpur
+ 15. Principles of Communication- NPTEL, IIT Kanpur
 
 ## Say Hi
 *I'd love to hear from you at [sushilkhairnar84@gmail.com](mailto:sushilkhairnar84@gmail.com) or a DM on [LinkedIn](https://www.linkedin.com/in/sushil-khairnar-a9322a147)*
