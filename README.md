@@ -83,7 +83,7 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
  7. Big Data Fundamentals via PySpark – Datacamp
  8. Pandas Foundations Course – Datacamp
  9. Understanding the Foundations of TensorFlow – Pluralsight
- 10. Statistics Foundations: Understanding Probability and Distributions - [PluralSight](https://github.com/sushilk123/sushilk123/blob/main/images/statistics.pdf)
+ 10. Statistics Foundations: Understanding Probability and Distributions - PluralSight
  11. Machine Learning : Regression – Coursera
  12. Machine Learning : Classification- Coursera
  13. Neural Networks and Deep Learning – Coursera
