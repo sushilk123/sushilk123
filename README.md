@@ -1,6 +1,6 @@
 # Sushil Khairnar
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
-Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse which is a major global financial firm. I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
+Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse, which is a major global financial firm. I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
 
 # Key Projects at Credit Suisse
 1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
@@ -83,12 +83,12 @@ Collaboration:  &nbsp; &nbsp; &nbsp;![](https://img.shields.io/badge/Collab-Jira
  7. Big Data Fundamentals via PySpark – Datacamp
  8. Pandas Foundations Course – Datacamp
  9. Understanding the Foundations of TensorFlow – Pluralsight
- 10. Machine Learning : Regression – Coursera
- 11. Machine Learning : Classification- Coursera
- 12. Neural Networks and Deep Learning – Coursera
- 13. Programming, Data Structures and Algorithms - NPTEL IIT Madras 
- 14. Discrete time Signal Processing - NPTEL IIT kharagpur
- 15. Principles of Communication- NPTEL, IIT Kanpur
+ 10. Statistics Foundations: Understanding Probability and Distributions - [PluralSight](https://github.com/sushilk123/sushilk123/blob/main/images/statistics.pdf)
+ 11. Machine Learning : Regression – Coursera
+ 12. Machine Learning : Classification- Coursera
+ 13. Neural Networks and Deep Learning – Coursera
+ 14. Programming, Data Structures and Algorithms - NPTEL IIT Madras 
+ 15. Discrete time Signal Processing - NPTEL IIT kharagpur
 
 ## Say Hi
 *I'd love to hear from you at [sushilkhairnar84@gmail.com](mailto:sushilkhairnar84@gmail.com) or a DM on [LinkedIn](https://www.linkedin.com/in/sushil-khairnar-a9322a147)*
