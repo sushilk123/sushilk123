@@ -6,7 +6,7 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
 2. Time Series Forecasting to capture Trade Anomalies – Time series analysis and modeling using TS models such as ARMA, ARIMA, Holt-Winters, etc.
 3. Machine Learning Model to Predict Expenses - Expense prediction using regression techniques and time-series analysis.
-4. Python Automation Module – Onboards new fields from the AGORA Database and generates a config file to run the OneTick data collectors.
+4. Python Automation Module – Onboarding new fields from the AGORA Database and generating a config file to run the OneTick data collectors.
 5. Liquid Symbol Monitoring – Monitoring system which analyses and monitors top liquid symbols/ticks across Asia Pacific for all major exchanges.
 6. Market Condition Prediction - Predict absolute spread, volume, volatility and liquidity. The model predicts market conditions for next T+5, T+10 and T+15 minutes.
 
