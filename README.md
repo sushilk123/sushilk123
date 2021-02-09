@@ -61,13 +61,12 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/DB-HBase-informational?style=flat&logoColor=white&color=21b52b)
 
-
-![](https://img.shields.io/badge/Android-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
-![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=hadoop&logoColor=white&color=21b52b)
-![](https://img.shields.io/badge/Machine-Learning-informational?style=flat&logo=machinelearning&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/MachineLearning-informational?style=flat&logo=machinelearning&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Cryptography-informational?style=flat&logo=cryptography&logoColor=white&color=21b52b)
 
 
