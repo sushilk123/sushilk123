@@ -33,6 +33,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 # Technical Skills
 <!-- ### Environment -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=apple&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=21b52b)
