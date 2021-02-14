@@ -2,7 +2,7 @@
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
 Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse, a major global financial firm. I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
 
-![My Website](https://sushilk123.github.io/)
+[Please visit my Website](https://sushilk123.github.io/)
 
 # Key Projects at Credit Suisse
 1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
