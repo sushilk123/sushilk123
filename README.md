@@ -2,15 +2,7 @@
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
 Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse, a major global financial firm. I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
 
-[Please visit my Website](https://sushilk123.github.io/)
-
-# Key Projects at Credit Suisse
-1. Data Ingestion Framework- Building data pipelines, configuring hive metastore and visualizing data. 
-2. Time Series Forecasting to capture Trade Anomalies – Time series analysis and modeling using TS models such as ARMA, ARIMA, Holt-Winters, etc.
-3. Machine Learning Model to Predict Expenses - Expense prediction using regression techniques and time-series analysis.
-4. Python Automation Module – Onboarding new fields from the AGORA Database and generating config files to run OneTick data collectors.
-5. Liquid Symbol Monitoring – Monitoring system which analyses and monitors top liquid symbols/ticks across Asia Pacific for all major exchanges.
-6. Market Condition Prediction - Predict absolute spread, volume, volatility and liquidity. The model predicts market conditions for next T+5, T+10 and T+15 minutes.
+*To know more about me, [please visit my Website](www.sushilkhairnar.com)*
 
 # Academic Projects
 1. [DONOR-X](https://www.youtube.com/watch?v=1AKfClmABxE) - An android and website based platform for connecting organ and blood donors with recipients
@@ -18,19 +10,17 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 3. LiCi-II - A light weight cipher 
 
 # Research 
-I authored a research paper titled, [A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
+[A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
 
 The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
-1. Published by Springer in the book series of Advances in Intelligent systems and Computing.
-2. Paper presented at Science and Information (Computing Conference) 2018 London.
 
-# Hobby Projects
+# Personal Projects
 1. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
 2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
 3. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
 4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
 5. Stocks price prediction
-
+6. My Flask Application
 
 # Technical Skills
 <!-- ### Environment -->
@@ -78,23 +68,6 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 ![](https://img.shields.io/badge/Collab-GitHub-informational?style=flat&logo=github&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/Collab-BitBucket-informational?style=flat&logo=bitbucket&logoColor=white&color=21b52b)
 
-# Certifications and Courses
-
- 1. Introduction to Bash shell on MAC OS and Linux – Pluralsight
- 2. Getting started with hive for relational Database developers – Pluralsight
- 3. SQL on Hadoop – Analyzing Big data with Hive – Pluralsight
- 4. Python for Data science & Machine Learning Bootcamp – Udemy
- 5. Python for Time Series Data Analysis – Udemy
- 6. The Building Blocks of Hadoop – HDFS, MapReduce and YARN – Pluralsight
- 7. Big Data Fundamentals via PySpark – Datacamp
- 8. Pandas Foundations Course – Datacamp
- 9. Understanding the Foundations of TensorFlow – Pluralsight
- 10. Statistics Foundations: Understanding Probability and Distributions - Pluralsight
- 11. Machine Learning : Regression – Coursera
- 12. Machine Learning : Classification- Coursera
- 13. Neural Networks and Deep Learning – Coursera
- 14. Programming, Data Structures and Algorithms - NPTEL IIT Madras 
- 15. Discrete time Signal Processing - NPTEL IIT kharagpur
 
 ## Say Hi
 *I'd love to hear from you at [sushilkhairnar84@gmail.com](mailto:sushilkhairnar84@gmail.com) or a DM on [LinkedIn](https://www.linkedin.com/in/sushil-khairnar-a9322a147)*
