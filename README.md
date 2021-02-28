@@ -19,8 +19,9 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
 3. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
 4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
-5. Stocks price prediction
-6. My Flask Application
+6. Stocks price prediction
+7. My Flask Application
+8. [Python Script to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
 
 # Technical Skills
 <!-- ### Environment -->
