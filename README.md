@@ -1,15 +1,15 @@
-# *Sushil Khairnar*
+# 🧍🏻 *Sushil Khairnar*
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
 Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I work as a Software Developer at Credit Suisse, a major global financial firm. I am a part of the Market Data Analytics team in the Global Markets division. My work deals with the development of applications, testing and automating existing processes, monitoring systems and the release of products through Git.
 
 *To know more about me, [please visit my Website](https://sushilkhairnar.com/)*
 
-# *Academic Projects*
+# 💼 *Academic Projects*
 1. [DONOR-X](https://www.youtube.com/watch?v=1AKfClmABxE) - An android and website based platform for connecting organ and blood donors with recipients
 2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
 3. LiCi-II - A light weight cipher 
 
-# *Research* 
+# 📚 *Research* 
 [A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
 
 The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
@@ -23,7 +23,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 7. My Flask Application
 8. [Python Script to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
 
-# *Technical Skills* 
+# 🛠 *Technical Skills* 
 <!-- ### Environment -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/OS-MAC-informational?style=flat&logo=apple&logoColor=white&color=21b52b)
