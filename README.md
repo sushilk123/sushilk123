@@ -21,7 +21,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
 6. Stocks price prediction
 7. My Flask Application
-8. [Python Script to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
+8. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
 
 # 🛠 *Technical Skills* 
 <!-- ### Environment -->
