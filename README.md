@@ -53,6 +53,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 <!-- ### Databases -->
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/DB-HBase-informational?style=flat&logoColor=white&color=21b52b)
+![](https://img.shields.io/badge/DB-OneTick-informational?style=flat&logoColor=white&color=21b52b)
 
 ![](https://img.shields.io/badge/JupyterNotebook-informational?style=flat&logo=jupyter-notebook&logoColor=white&color=21b52b)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=21b52b)
