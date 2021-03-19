@@ -15,13 +15,13 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
 
 # 🖥  *Personal Projects*
-1. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
-2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
+1. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
+2. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
 3. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
 4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
+5. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
 6. Stocks price prediction
 7. My Flask Application
-8. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
 
 # 🛠 *Technical Skills* 
 <!-- ### Environment -->
