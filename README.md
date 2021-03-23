@@ -16,7 +16,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 3. [Notification Sender](https://github.com/sushilk123/Notification_Sender)
 4. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
 5. [Real Time Singer Recognition](https://github.com/sushilk123/Real-Time-Singer-Recognition) 
-6. [LiCi-II](https://github.com/sushilk123/Cryptography)
+6. [Lici-II - A Lightweight Cipher](https://github.com/sushilk123/Cryptography)
 7. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
 8. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
 9. Stocks price prediction
