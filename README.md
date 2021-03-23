@@ -12,11 +12,11 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 
 # 💼  *Projects*
 1. [DONOR-X](https://github.com/sushilk123/DONORX) 
-2. [Real Time Singer Recognition](https://github.com/sushilk123/Real-Time-Singer-Recognition) 
-3. [LiCi-II](https://github.com/sushilk123/Cryptography)
-4. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
-5. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
-6. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
+2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
+3. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
+4. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
+5. [Real Time Singer Recognition](https://github.com/sushilk123/Real-Time-Singer-Recognition) 
+6. [LiCi-II](https://github.com/sushilk123/Cryptography)
 7. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
 8. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
 9. Stocks price prediction
