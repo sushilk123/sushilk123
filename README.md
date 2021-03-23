@@ -4,24 +4,23 @@ Hi, I am Sushil Khairnar. <img src="https://raw.githubusercontent.com/MartinHein
 
 *To know more about me, [please visit my Website](https://sushilkhairnar.com/)*
 
-# 💼  *Academic Projects*
-1. [DONOR-X](https://www.youtube.com/watch?v=1AKfClmABxE) - An android and website based platform for connecting organ and blood donors with recipients
-2. Real Time Singer Recognition - Identify the singer of a song and then cluster songs of similar voices in a music library. 
-3. LiCi-II - A light weight cipher 
 
 # 📚 *Research* 
 [A Light Weight Cryptographic Solution for 6LoWPAN Protocol Stack](https://link.springer.com/chapter/10.1007/978-3-030-01177-2_71)
 
 The research paper presents an implementation of a Lightweight 6LoWPAN Protocol stack by using a Light weight Cipher instead of regular heavy encryption cipher AES. It also discusses the detailed analysis of cipher against Linear Cryptanalysis, Differential Cryptanalysis, Biclique attack and Avalanche attack.
 
-# 🖥  *Personal Projects*
-1. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
-2. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
-3. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
-4. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
-5. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
-6. Stocks price prediction
-7. My Flask Application
+# 💼  *Projects*
+1. [DONOR-X](https://github.com/sushilk123/DONORX) 
+2. [Real Time Singer Recognition](https://github.com/sushilk123/Real-Time-Singer-Recognition) 
+3. [LiCi-II](https://github.com/sushilk123/Cryptography)
+4. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
+5. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
+6. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
+7. [Sentiment Analysis](https://github.com/sushilk123/Sentiment-Analysis/tree/master/Sentiment-Analysis-of-Product-Reviews)
+8. [House Price Prediction](https://github.com/sushilk123/House-Price-Prediction)
+9. Stocks price prediction
+10. My Flask Application
 
 # 🛠 *Technical Skills* 
 <!-- ### Environment -->
