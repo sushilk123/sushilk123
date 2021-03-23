@@ -13,7 +13,7 @@ The research paper presents an implementation of a Lightweight 6LoWPAN Protocol 
 # 💼  *Projects*
 1. [DONOR-X](https://github.com/sushilk123/DONORX) 
 2. [Smart Grid](https://github.com/sushilk123/Smart-Grid)
-3. [Python Module to Send SMS and Emails](https://github.com/sushilk123/Email_SMS_Sender)
+3. [Notification Sender](https://github.com/sushilk123/Notification_Sender)
 4. [Whatsapp Chat Analytics](https://github.com/sushilk123/Whatsapp-Chat-Analytics)
 5. [Real Time Singer Recognition](https://github.com/sushilk123/Real-Time-Singer-Recognition) 
 6. [LiCi-II](https://github.com/sushilk123/Cryptography)
