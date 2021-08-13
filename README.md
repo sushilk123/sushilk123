@@ -1,7 +1,6 @@
 # 👱🏻‍♂️ *Sushil Khairnar*
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
-Hi, I am Sushil. I am a Computer Science graduate student at Viriginia Tech <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
+Hi, I am Sushil. I am a Computer Science graduate student at Viriginia Tech.
 I code in Python and I'm passionate about Data Science, Big Data technologies and Data Structures.
 
 *To know more about me, [please visit my Website](https://sushilkhairnar.com/)*
