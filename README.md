@@ -1,8 +1,15 @@
 # 👱🏻‍♂️ *Sushil Khairnar*
 <!-- <img src="images/sushil_1.jpg" width="30%" /> -->
 Hi, I am Sushil. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-I am a Computer Science graduate student at Viriginia Tech. I'm passionate about Data Structures and Algorithms, Software Engineering and Big Data technologies.
+I am a seasoned software professional with over 5 years of experience in the tech industry, currently working as a Software Development Engineer 2 at Audible. My expertise spans full-stack development, data privacy, and machine learning applications.
 
+At Audible, I've been involved in developing robust software solutions since February 2023. Prior to this, I completed my Master's degree in Computer Science from Virginia Tech, where I also worked as a Graduate Research Assistant on Unmanned Aerial Systems.
+
+My professional journey includes a software development internship at Audible, where I designed and developed a full-stack web application using various AWS services. Before my graduate studies, I spent three years at Credit Suisse, progressing from a Technology Analyst to an ENO 2 role. There, I worked on market prediction engines, data pipelines, and monitoring systems for APAC markets.
+
+I hold a Bachelor's degree in Electronics and Telecommunications Engineering from Pune Institute of Computer Technology, where I graduated with distinction.
+
+My technical skills include Java, Python, AWS, SQL, Hadoop, and various data processing tools. I have experience in both financial and tech sectors.
 *To know more about me, [please visit my Website](https://sushilkhairnar.com/)*
 
 
