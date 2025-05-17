@@ -10,7 +10,7 @@ My professional journey includes a software development internship at Audible, w
 I hold a Bachelor's degree in Electronics and Telecommunications Engineering from Pune Institute of Computer Technology, where I graduated with distinction.
 
 My technical skills include Java, Python, AWS, SQL, Hadoop, and various data processing tools. I have experience in both financial and tech sectors.
-*To know more about me, [please visit my Website](https://sushilkhairnar.com/)*
+*To know more about me, [please visit my Website](https://sushilk123.github.io/)*
 
 
 # 📚 *Research* 
